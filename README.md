@@ -14,3 +14,8 @@ gvm install go1.19.5 -B
 gvm use go1.19.5
 ```
 
+Next, install developer git hooks
+```sh
+make devsetup
+```
+
