@@ -19,3 +19,8 @@ Next, install developer git hooks
 make devsetup
 ```
 
+Create the local copy of .env
+```sh
+cp env.example .env
+```
+
